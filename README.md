@@ -21,7 +21,7 @@
 <img src="https://github-stats-alpha.vercel.app/api/?username=Mr-Yash-Dev&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TitanXBots&theme=highcontrast)](https://github.com/Mr-Yash-Dev/github-readme-streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TitanXBots&theme=highcontrast)](https://github.com/Mr-Yash-Dev/Yash/github-readme-streak-stats)
 </div>
 
 ## Rᴀɴᴅᴏᴍ Dᴇᴠ Qᴜᴏᴛᴇ
