@@ -18,7 +18,7 @@
 
 <div align="center">
 <p align="center">
-<img src="https://github-stats-alpha.vercel.app/api/?username=TitanXBots&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
+<img src="https://github-stats-alpha.vercel.app/api/?username=Mr-Yash-Dev&cc=000&tc=00ff00&ic=fff000&bc=fff" align="center">
 </p>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TitanXBots&theme=highcontrast)](https://github.com/TitanXBots/github-readme-streak-stats)
