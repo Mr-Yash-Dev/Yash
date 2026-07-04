@@ -1,7 +1,7 @@
 # ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ ʏᴀꜱʜ ɢɪᴛʜᴜʙ ᴘʀᴏꜰɪʟᴇ👋
 
 <p align="center">
-  <img src="https://envs.sh/pNw.jpg" alt="TitanXBots Logo">
+  <img src="https://i.ibb.co/7xBNgdvj/x.jpg" alt="TitanXBots Logo">
 </p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width=30px height=30px>&nbsp;***About me***
